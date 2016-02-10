@@ -1,0 +1,9 @@
+{
+  "name": "ionic-map-tab-starter",
+  "app_id": "",
+ "gulpStartupTasks": [
+     "index",
+     "watch",
+     "sass"
+ ]
+}
